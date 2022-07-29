@@ -12,7 +12,7 @@ const jump = () => {
 
 document.addEventListener("keydown", jump);
 
-//Game Looping and Restart
+//Game Loop and Restart
 
 const loopGame = setInterval(() => {
 
